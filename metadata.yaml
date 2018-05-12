@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5874'
     url: http://www.gutenberg.org/2009/agents/5874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20832#Campfire-Girls-at-Twin-LakesThe-Quest-of-a-Summer-Vacation
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-03-16'
 gutenberg_type: Text
