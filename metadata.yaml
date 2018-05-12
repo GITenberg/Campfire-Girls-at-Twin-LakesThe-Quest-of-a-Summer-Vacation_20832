@@ -1,0 +1,27 @@
+_repo: Campfire-Girls-at-Twin-LakesThe-Quest-of-a-Summer-Vacation_20832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Francis, Stella M.
+    gutenberg_agent_id: '5874'
+    url: http://www.gutenberg.org/2009/agents/5874
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+title: 'Campfire Girls at Twin Lakes
+
+  The Quest of a Summer Vacation'
+url: http://www.gutenberg.org/ebooks/20832
